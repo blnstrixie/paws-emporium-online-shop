@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" href="styles/banner.css">
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Canine Safety Gear Bundles &#124; Paws Emporium </title>
+    <link rel="stylesheet" href="styles/banner.css">
   </head>
 
   <body>
@@ -11,16 +12,16 @@
       include 'header.html'
     ?>
 
-    <div class="banner-container">
+    <section class="banner-container" alt="Dogs wearing safety gears">
       <img class="banner" src="images/dogsss.jpg">
 
       <div class="tagline">
         Canine Safety Gear Bundles
       </div>
 
-      <button class="shop-btn">
+      <a href="#" class="shop-btn">
         Shop All
-      </button>
-    </div>
+      </a>
+    </section>
   </body>
 </html>

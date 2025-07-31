@@ -1,6 +1,6 @@
 html,
 body {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   padding: 0;
   margin: 0;
 }
@@ -29,9 +29,10 @@ body {
 }
 
 .shop-btn {
-  font-family: Roboto;
+  font-family: 'Roboto', sans serif;
   font-size: 14px;
   font-weight: 600;
+  text-decoration: none;
   background: transparent;
   color: #fff; 
   text-transform: uppercase;
