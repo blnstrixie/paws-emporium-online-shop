@@ -47,7 +47,7 @@
 
         <h3>
           Our Best Selling Gears
-        <h3>
+        </h3>
 
         <div class="product-grid">
           <div class="product-container">
