@@ -40,6 +40,81 @@
         </p>
       </section>
 
+      <section class="best-selling-products">
+        <h4>
+          Popular 
+        </h4>
+
+        <h3>
+          Our Best Selling Gears
+        <h3>
+
+        <div class="product-grid">
+          <div class="product-container">
+            <div class="product-row">
+              <img class="product-image" src="images/dog-vest.png">
+            </div>
+
+            <div class="product-details">
+              <div class="left-details">
+                <div class="product-name">
+                  Pawfect Guard Safety Vest
+                </div>
+                <div class="product-color">
+                  Yellow, Gray
+                </div>
+              </div>
+
+              <div class="product-price">
+                PHP 700.00
+              </div>
+            </div>
+          </div>
+
+          <div class="product-container">
+            <div class="product-row">
+              <img class="product-image" src="images/dog-helmet.png">
+            </div>
+
+            <div class="product-details">
+              <div class="left-details">
+                <div class="product-name">
+                  PawPatrol Safety Helmet
+                </div>
+                <div class="product-color">
+                  Green, Silver
+                </div>
+              </div>
+
+              <div class="product-price">
+                PHP 2,300.00
+              </div>
+            </div>
+          </div>
+
+          <div class="product-container">
+            <div class="product-row">
+              <img class="product-image" src="images/dog-boots.png">
+            </div>
+
+            <div class="product-details">
+              <div class="left-details">
+                <div class="product-name">
+                  Pawtective Boots
+                </div>
+                <div class="product-color">
+                  Red
+                </div>
+              </div>
+
+              <div class="product-price">
+                PHP 400.00
+              </div>
+            </div>
+          </div>
+        </div>  
+      </section>
+
     </main>
   </body>
 </html>
