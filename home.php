@@ -9,6 +9,7 @@
 
     <link rel="stylesheet" href="styles/header.css">
     <link rel="stylesheet" href="styles/banner.css">
+    <link rel="stylesheet" href="styles/style.css">
   </head>
 
   <body>
@@ -28,6 +29,17 @@
           Shop All
         </a>
       </section>
+
+      <section class="intro-section">
+        <h2>
+          Safe Adventures. Happy Tails.
+        </h2>
+        
+        <p> 
+          From sniff-tested & paw-approved harnesses to protective boots built for zoomies, we&#39;ve got everything your goodest bois & girls need for comfort and safety. Whether it&#39;s a casual sniffari or a hike in the hills, bark in style on every adventure! 
+        </p>
+      </section>
+
     </main>
   </body>
 </html>
