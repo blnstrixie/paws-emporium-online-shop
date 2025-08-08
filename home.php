@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="styles/style.css">
 
     <script src="js/header-scroll.js" defer></script>
+    <script src="js/typing-effect.js" defer></script>
   </head>
 
   <body>
@@ -117,6 +118,10 @@
         </div>  
       </section>
 
+      <section class="midpage-banner">
+        <img src="images/midpage-banner.jpg">
+        <h1 class="typing-text"></h1>
+      </section>
       
       <section class="testimonial">
         <div class="testimonial-card">
