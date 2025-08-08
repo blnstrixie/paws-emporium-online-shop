@@ -15,6 +15,12 @@
   padding: 0 50px;
   z-index: 100;
   background: transparent;
+  transition: background-color 0.15s;
+}
+
+.header.scrolled {
+  background-color: #ffffff;
+  color: #555555;
 }
 
 .left {
