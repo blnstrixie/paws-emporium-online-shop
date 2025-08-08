@@ -4,12 +4,13 @@
 }
 
 .intro-section h2 {
-  color: rgb(30, 30, 30);
+  color: #333333;
   font-size: 32px;
   letter-spacing: 2px;
 }
 
 .intro-section p {
+  color: #555555;
   font-size: 16px;
   line-height: 30px;
   letter-spacing: 1px;
