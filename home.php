@@ -52,7 +52,7 @@
         <div class="product-grid">
           <div class="product-container">
             <div class="product-row">
-              <img class="product-image" src="images/dog-vest.png">
+              <img class="product-image" src="images/dog-vest.png" alt="Pawfect Guard Safety Vest">
             </div>
 
             <div class="product-details">
@@ -73,7 +73,7 @@
 
           <div class="product-container">
             <div class="product-row">
-              <img class="product-image" src="images/dog-helmet.png">
+              <img class="product-image" src="images/dog-helmet.png" alt="PawPatrol Safety Helmet">
             </div>
 
             <div class="product-details">
@@ -94,7 +94,7 @@
 
           <div class="product-container">
             <div class="product-row">
-              <img class="product-image" src="images/dog-boots.png">
+              <img class="product-image" src="images/dog-boots.png" alt="Pawtective Boots">
             </div>
 
             <div class="product-details">
