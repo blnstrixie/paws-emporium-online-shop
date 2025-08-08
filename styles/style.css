@@ -81,3 +81,56 @@
   font-weight: 500;
   color: #555555;
 }
+
+.testimonial {
+  position: relative;
+  max-width: 1000px;
+  margin: auto; 
+  margin-bottom: 100px;
+  padding: 50px 70px;
+  box-sizing: border-box;
+}
+
+.testimonial-card {
+  margin: auto;
+  max-width: 1000px;
+  padding: 20px;
+  text-align: center;
+}
+
+.customer-feedback {
+  color: #333333;
+  font-size: 42px;
+  font-weight: 600;
+  margin-bottom: 50px;
+  line-height: 60px;
+}
+
+.customer-name {
+  color: #555555;
+  font-size: 18px;
+}
+
+.arrows {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+.arrows > div {
+  pointer-events: auto;
+  cursor: pointer;
+  width: 10px;
+  height: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #555555;
+  font-size: 2rem;
+  user-select: none;
+}

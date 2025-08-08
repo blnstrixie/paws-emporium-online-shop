@@ -10,6 +10,8 @@
     <link rel="stylesheet" href="styles/header.css">
     <link rel="stylesheet" href="styles/banner.css">
     <link rel="stylesheet" href="styles/style.css">
+
+    <script src="testimonial-slider.js" defer></script>
   </head>
 
   <body>
@@ -115,6 +117,28 @@
         </div>  
       </section>
 
+      
+      <section class="testimonial">
+        <div class="testimonial-card">
+          <div class="customer-feedback"> 
+            &#8220;I feel like a superstar in my new Pawfect Guard Safety Vest! So comfy, and my hooman says I look pawsome!&#8221;
+          </div>
+
+          <div class="customer-name">
+            &#8211; Barkley
+          </div>
+        </div>
+
+        <div class="arrows">
+          <div class="left-arrow">
+            <i class="fa-regular fa-less-than"></i>
+          </div>
+
+          <div class="right-arrow">
+            <i class="fa-regular fa-greater-than"></i>
+          </div>
+        </div>
+      </section>
     </main>
   </body>
 </html>
