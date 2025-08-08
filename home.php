@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="styles/banner.css">
     <link rel="stylesheet" href="styles/style.css">
 
-    <script src="testimonial-slider.js" defer></script>
+    <script src="js/header-scroll.js" defer></script>
   </head>
 
   <body>
