@@ -1,4 +1,4 @@
-const phrases = ["Best Pawtection Gear", "Paw Approved", "Comfort Meets Safety"];
+const phrases = ["Gear Up, Pup!", "Best Pawtection Gears", "For Goodest Bois and Girls", "Keep Up with Hooman Fashion", "For Walks You'll Both Love"];
 const typingSpeed = 120;
 const erasingSpeed = 80;
 const delayBetweenPhrases = 2000;
