@@ -18,7 +18,7 @@
 
   <body>
     <?php
-      include 'header.html';
+      include 'partials/header.html';
     ?>
 
     <main>
@@ -148,7 +148,7 @@
     </main>
 
     <?php 
-      include 'footer.html';
+      include 'partials/footer.html';
     ?>
   </body>
 </html>
