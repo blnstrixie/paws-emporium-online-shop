@@ -8,6 +8,7 @@
     <script src="https://kit.fontawesome.com/021f2ffdd5.js" crossorigin="anonymous"></script>
 
     <link rel="stylesheet" href="styles/header.css">
+    <link rel="stylesheet" href="styles/footer.css">
     <link rel="stylesheet" href="styles/banner.css">
     <link rel="stylesheet" href="styles/style.css">
 
@@ -145,5 +146,9 @@
         </div>
       </section>
     </main>
+
+    <?php 
+      include 'footer.html';
+    ?>
   </body>
 </html>
