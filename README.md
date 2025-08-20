@@ -6,9 +6,9 @@ This personal project combines my passion for web development with my love for d
 ## Tech Stack
 Currently using:
 
-- HTML5
-- CSS3
-- JavaScript (front-end only, for now)
+- **Front-end:** HTML5, CSS3, JavaScript
+- **Back-end/Scripting:** PHP (partial page integration)
+- **Tools:** Visual Studio Code, XAMPP, Git & GitHub
 
 ## Current Status
 **In Progress** – Development is ongoing, with plans to complete within the year.
