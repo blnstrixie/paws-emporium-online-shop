@@ -99,11 +99,10 @@
 }
 
 .search-container .tooltip {
-  background-color: rgba(0, 0, 0, 0.1);
   font-size: 11px;
   text-transform: none;
   position: absolute ;
-  bottom: -30px;
+  bottom: -28px;
   padding: 5px 8px;
   border-radius: 2px;
   opacity: 0;
